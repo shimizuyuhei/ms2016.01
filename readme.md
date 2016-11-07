@@ -33,3 +33,9 @@ git push --set-upstream origin {ブランチ名}
 
 ブランチの移動
 git checkout {ブランチ名}
+
+コミットログを参照する
+git log
+
+コミットをやり直す
+git commit --amend
