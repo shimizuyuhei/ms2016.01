@@ -1,0 +1,9 @@
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\obj\x86\Debug\TCPserver.Form1.resources
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\obj\x86\Debug\TCPserver.Properties.Resources.resources
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\obj\x86\Debug\TCPserver.csproj.GenerateResource.Cache
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\obj\x86\Debug\TCPserver.exe
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\obj\x86\Debug\TCPserver.pdb
+C:\HAL\4\GP41\program\unity\TCPserver\TCPserver\obj\x86\Debug\TCPserver.csprojResolveAssemblyReference.cache
